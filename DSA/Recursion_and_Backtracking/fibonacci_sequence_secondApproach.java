@@ -1,4 +1,3 @@
-package Recursion_and_Backtracking;
 
 public class fibonacci_sequence_secondApproach {
     public static void main(String[] args) {

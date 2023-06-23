@@ -1,4 +1,3 @@
-package Recursion_and_Backtracking;
 
 public class SumOfNaturalNumbers {
     public static void main(String[] args) {
