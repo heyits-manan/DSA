@@ -1,4 +1,3 @@
-import javax.lang.model.element.ModuleElement.DirectiveVisitor;
 
 public class MergeSort {
 
@@ -19,7 +18,7 @@ public class MergeSort {
             }
         }
 
-        while (idx1 <= mid) {
+        while (idx1 <= mid) { 
             merged[x++] = arr[idx1++];
 
         }
