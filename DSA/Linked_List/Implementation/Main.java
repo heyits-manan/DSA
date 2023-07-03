@@ -7,9 +7,9 @@ public class Main {
         list.addLast(20);
         list.addLast(30);
 
-        // list.removeFirst();
-        // list.removeLast();
-        // System.out.println(list.indexOf(30));
-        // System.out.println(list.contains(50));
+        list.removeFirst();
+        list.removeLast();
+        System.out.println(list.indexOf(30));
+        System.out.println(list.contains(50));
     }
 }
